@@ -1,7 +1,7 @@
-# Hades' Star Simulator
+Forked off https://github.com/Tyulis/Hades-Star-Simulator
 
-This is a small utility tool to help you "simulate" your Hades' Star system and help you to optimize it.
+The goal is to save time in system building by simulating the fastest route to a goal, eg 4, 6 or 8 mil credit cap.
 
-It is written in Python 3, with PyQt5.
-
-_Disclaimer : This is not a bot, a hack, a cheating software or whatever like that._
+Instructions: 
+1. use win.json or use the simulator to setup your own system
+2. run sim.py for a very basic future simulation
